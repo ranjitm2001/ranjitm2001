@@ -14,51 +14,52 @@
 
 ### 🚀 About Me
 
-With **9+ years of experience**, I drive innovation and deliver high-performance solutions in backend development, cloud management, and software security. I lead cross-functional teams to build scalable systems that handle millions of transactions.
+With **9+ years of experience**, I drive innovation and deliver high-performance solutions in backend development, cloud management, and software security. I lead cross-functional teams to build scalable systems.
 
-- 🔭 Currently working as **Lead Software Engineer** at **Tekion Corp**
-- 🌱 Building AI-powered solutions and scalable microservices
+- 🔭 Currently **Lead Software Engineer** at **Tekion Corp**
 - 👯 Active **Open Source Contributor** to Spring AI, Testcontainers & Apache Kafka
 - 💬 Ask me about **Java, Golang, System Design, Cloud Architecture**
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💼 Experience
 
-| Company | Role | Duration |
-|---------|------|----------|
-| **Tekion Corp** | Lead Software Engineer | May 2025 - Present |
-| **Osfin.ai** | Engineering Manager - Backend | Oct 2023 - May 2025 |
-| **Kognitos** | Senior Software Engineer (SDE3) | Apr 2023 - Oct 2023 |
-| **Vahak** | Senior Backend Developer (SDE2) | Jan 2022 - Apr 2023 |
-| **Airbus** | Software Engineer & Project Manager | Aug 2019 - Jan 2022 |
-| **Bosch** | Software Developer (SDE1) | Jul 2016 - Aug 2019 |
+| Company | Role |
+|---------|------|
+| **Tekion Corp** | Lead Software Engineer |
+| **Osfin.ai** | Engineering Manager |
+| **Kognitos** | Senior SWE (SDE3) |
+| **Vahak** | Senior Backend Dev |
+| **Airbus** | SWE & Project Manager |
+| **Bosch** | Software Developer |
 
----
+</td>
+<td valign="top" width="50%">
 
-### 🌟 Open Source Contributions
+### 🌟 Open Source
 
 | Project | Contributions |
 |---------|---------------|
-| <img src="https://avatars.githubusercontent.com/u/317776?s=20&v=4" width="20"/> **Spring AI** | [4 PRs Submitted](https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001) |
-| <img src="https://avatars.githubusercontent.com/u/13393021?s=20&v=4" width="20"/> **Testcontainers** | [2 PRs Submitted](https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001) |
-| <img src="https://avatars.githubusercontent.com/u/47359?s=20&v=4" width="20"/> **Apache Kafka** | [Contributing](https://issues.apache.org/jira/browse/KAFKA-20009) |
-
----
+| <img src="https://avatars.githubusercontent.com/u/317776?s=20&v=4" width="16"/> **Spring AI** | [4 PRs](https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001) |
+| <img src="https://avatars.githubusercontent.com/u/13393021?s=20&v=4" width="16"/> **Testcontainers** | [2 PRs](https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001) |
+| <img src="https://avatars.githubusercontent.com/u/47359?s=20&v=4" width="16"/> **Apache Kafka** | [Contributing](https://issues.apache.org/jira/browse/KAFKA-20009) |
 
 ### 🎓 Education
 
 **B.Tech in Mechanical Engineering**  
-National Institute of Technology Karnataka (NITK), Surathkal  
-*CGPA: 8.88/10 | 2012 - 2016*
+NITK Surathkal | CGPA: 8.88/10
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  
-### 💬 Let's Connect\!
-
-I'm always interested in discussing new opportunities, open source collaboration, or just having a tech chat.
 
 <a href="https://linkedin.com/in/ranjitm2001"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
