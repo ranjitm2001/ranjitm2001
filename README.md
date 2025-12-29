@@ -28,7 +28,7 @@ With **9+ years of experience**, I drive innovation and deliver high-performance
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/framework-docs/src/docs/spring-logo.svg" width="60" height="60" alt="Spring AI"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" width="60" height="60" alt="Spring AI"/><br/>
       <strong>Spring AI</strong><br/>
       <a href="https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001">4 PRs Submitted</a>
     </td>
@@ -38,7 +38,7 @@ With **9+ years of experience**, I drive innovation and deliver high-performance
       <a href="https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001">2 PRs Submitted</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://kafka.apache.org/images/apache-kafka.png" width="60" height="60" alt="Apache Kafka"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" width="60" height="60" alt="Apache Kafka"/><br/>
       <strong>Apache Kafka</strong><br/>
       <a href="https://issues.apache.org/jira/browse/KAFKA-20009">Contributing</a>
     </td>
