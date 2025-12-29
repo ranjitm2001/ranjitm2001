@@ -4,9 +4,7 @@
 
 ### Engineering Lead | Backend Architect | Open Source Contributor
 
-[\![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjitm2001-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranjitm2001)
-[\![Portfolio](https://img.shields.io/badge/Portfolio-ranjitm2001.github.io-purple?style=flat&logo=google-chrome)](https://ranjitm2001.github.io)
-[\![Email](https://img.shields.io/badge/Email-ranjitm2001%40gmail.com-red?style=flat&logo=gmail)](mailto:ranjitm2001@gmail.com)
+[🔗 LinkedIn](https://linkedin.com/in/ranjitm2001) • [🌐 Portfolio](https://ranjitm2001.github.io) • [📧 Email](mailto:ranjitm2001@gmail.com)
 
 </div>
 
@@ -40,9 +38,9 @@ With **9+ years of experience**, I drive innovation and deliver high-performance
 
 | Project | Contributions |
 |---------|---------------|
-| <img src="https://avatars.githubusercontent.com/u/317776?s=20&v=4" width="20"/> **Spring AI** | [4 PRs Submitted](https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001) |
-| <img src="https://avatars.githubusercontent.com/u/13393021?s=20&v=4" width="20"/> **Testcontainers** | [2 PRs Submitted](https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001) |
-| <img src="https://avatars.githubusercontent.com/u/47359?s=20&v=4" width="20"/> **Apache Kafka** | [Contributing](https://issues.apache.org/jira/browse/KAFKA-20009) |
+| 🌱 **Spring AI** | [4 PRs Submitted](https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001) |
+| 🐳 **Testcontainers** | [2 PRs Submitted](https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001) |
+| 📨 **Apache Kafka** | [Contributing](https://issues.apache.org/jira/browse/KAFKA-20009) |
 
 ---
 
@@ -56,8 +54,6 @@ National Institute of Technology Karnataka (NITK), Surathkal
 
 <div align="center">
 
-[\![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranjitm2001)
-
-\![Profile Views](https://komarev.com/ghpvc/?username=ranjitm2001&color=blueviolet&style=flat&label=Profile+Views)
+[🔗 **Let's Connect on LinkedIn**](https://linkedin.com/in/ranjitm2001)
 
 </div>
