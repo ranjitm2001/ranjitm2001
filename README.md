@@ -4,9 +4,9 @@
 
 ### Engineering Lead | Backend Architect | Open Source Contributor
 
-<a href="https://linkedin.com/in/ranjitm2001"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://ranjitm2001.github.io"><img src="https://img.shields.io/badge/-Portfolio-6366f1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:ranjitm2001@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[\![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjitm2001-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranjitm2001)
+[\![Portfolio](https://img.shields.io/badge/Portfolio-ranjitm2001.github.io-purple?style=flat&logo=google-chrome)](https://ranjitm2001.github.io)
+[\![Email](https://img.shields.io/badge/Email-ranjitm2001%40gmail.com-red?style=flat&logo=gmail)](mailto:ranjitm2001@gmail.com)
 
 </div>
 
@@ -55,13 +55,9 @@ National Institute of Technology Karnataka (NITK), Surathkal
 ---
 
 <div align="center">
-  
-### 💬 Let's Connect\!
 
-I'm always interested in discussing new opportunities, open source collaboration, or just having a tech chat.
+[\![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ranjitm2001)
 
-<a href="https://linkedin.com/in/ranjitm2001"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=ranjitm2001&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+\![Profile Views](https://komarev.com/ghpvc/?username=ranjitm2001&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
