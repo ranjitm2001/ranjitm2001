@@ -4,7 +4,7 @@
 
 ### Engineering Lead | Backend Architect | Open Source Contributor
 
-[🔗 LinkedIn](https://linkedin.com/in/ranjitm2001) • [🌐 Portfolio](https://ranjitm2001.github.io) • [📧 Email](mailto:ranjitm2001@gmail.com)
+[🔗 LinkedIn](https://linkedin.com/in/ranjitm2001) • [🌐 Portfolio](https://ranjitm2001.github.io) • [📝 Blog](https://ranjitm2001.github.io/blogs.html) • [📧 Email](mailto:ranjitm2001@gmail.com)
 
 </div>
 
@@ -41,6 +41,15 @@ With **9+ years of experience**, I drive innovation and deliver high-performance
 | 🌱 **Spring AI** | [4 PRs Submitted](https://github.com/spring-projects/spring-ai/pulls?q=author%3Aranjitm2001) |
 | 🐳 **Testcontainers** | [2 PRs Submitted](https://github.com/testcontainers/testcontainers-java/pulls?q=author%3Aranjitm2001) |
 | 📨 **Apache Kafka** | [Contributing](https://issues.apache.org/jira/browse/KAFKA-20009) |
+
+---
+
+### 📝 Recent Blog Posts
+
+- [Contributing to Spring AI: My Open Source Journey](https://ranjitm2001.github.io/blog/spring-ai-contributions.html)
+- [Adding UDP Port Mapping to Testcontainers](https://ranjitm2001.github.io/blog/testcontainers-udp-support.html)
+- [Building Scalable ETL Pipelines with Spark](https://ranjitm2001.github.io/blog/scalable-etl-pipelines.html)
+- [From Mechanical Engineering to Software: My Career Journey](https://ranjitm2001.github.io/blog/career-journey.html)
 
 ---
 
